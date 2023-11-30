@@ -1,0 +1,5 @@
+This is a Node application 
+
+
+to open the project you need to run -  node index.js since this is the name of the main file
+You should also be connected to the mongodb atlas
